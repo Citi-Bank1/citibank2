@@ -1,1 +1,1 @@
-Hello bharath this file contains db related conenctions
+This file contains db related connects
